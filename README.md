@@ -1,10 +1,3 @@
-# PNG DES + CBC cracking
-My way to crack DES and recovery a PNG
-
-A seguir vai uma versão bem mais longa e detalhada, no estilo de tutorial técnico que você pode postar como artigo no LinkedIn ou colocar como README em um repositório. Eu mantive o texto bem explicativo, mas com linguagem de engenharia, e descrevendo exatamente o tipo de cadeia de ferramentas e raciocínio que você aplicou.
-
----
-
 # Full Walkthrough
 
 ## Recovering a 1999 PNG from an Old HDD Encrypted with DES-CBC and PKCS#5 Padding
